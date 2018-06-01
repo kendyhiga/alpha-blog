@@ -3,6 +3,10 @@ $navbar-default-bg: #912F40;
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
+body {
+  background-color: #080705;
+}
+
 #logo {
   float: left;
   font-size: 1.7em;
@@ -24,7 +28,7 @@ $navbar-default-bg: #912F40;
 .jumbotron {
   background-image: asset-url('cold-vehicles-water.jpg'); 
   background-size: cover;
-  height: 550px;
+  height: 400px;
 }
 
 .jumbotron h1 {
