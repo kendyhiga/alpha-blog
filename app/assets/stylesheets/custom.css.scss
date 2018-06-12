@@ -5,7 +5,9 @@ $navbar-default-bg: #912F40;
 
 body {
   background-color: #080705;
-  color: #fffff6
+  color: #fffff6;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h2 {
@@ -72,6 +74,11 @@ h2 {
   border-top: 1px solid #912F40;
   padding-top: 15px;
   padding-bottom: 15px;
+}
+
+.listing {
+  list-style: none;
+  padding-left: 0;
 }
 
 footer {
