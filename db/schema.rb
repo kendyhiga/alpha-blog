@@ -17,7 +17,6 @@ ActiveRecord::Schema.define(version: 20180608171259) do
     t.text     "description"
     t.datetime "created_at"
     t.datetime "updated_at"
-    t.string   "title"
     t.integer  "user_id"
   end
 
