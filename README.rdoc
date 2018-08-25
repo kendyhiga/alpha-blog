@@ -1,1 +1,1 @@
-This is the repository for the first application project of the Rails course
+testando branches
